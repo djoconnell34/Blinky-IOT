@@ -7,7 +7,7 @@ namespace Blinky
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello this is a IOT App");
+            Console.WriteLine("Hello this is an IOT App");
 
             int pin = 18;
             GpioController controller = new GpioController();
